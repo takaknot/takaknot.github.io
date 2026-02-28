@@ -6,7 +6,7 @@ Takayuki Shinkai
 ## Work
 Engagement Manager
 
-Akamai Technologies G.K.
+Akamai Technologies GK, Japan
 
 ## Profile
 Software and Network Engineer, Architect.
